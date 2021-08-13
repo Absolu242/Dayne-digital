@@ -1,15 +1,18 @@
 import React from "react"
+
+//components
 import Layout from "../../components/Layout/Layout"
 import Header from "../../components/Header/Header"
-import image from "../../public/assets/images/team.svg"
 
-//icons
+//assets
+import image from "../../public/assets/images/team.svg"
 import icon1 from "../../public/assets/icons/01.svg"
 import icon2 from "../../public/assets/icons/02.svg"
 import icon3 from "../../public/assets/icons/03.svg"
 import icon4 from "../../public/assets/icons/04.svg"
 import icon5 from "../../public/assets/icons/05.svg"
 
+//styles
 import {
   TeamContainer,
   TeamFlex,
@@ -35,27 +38,27 @@ export default function Team() {
 
             <TeamFlex>
               <div className='benef'>
-                <img src={icon1} className='benef-icon' />
+                <img src={icon1} className='benef-icon' alt='icon' />
                 <p className='benef-name'>Flexibility and scalability</p>
               </div>
 
               <div className='benef'>
-                <img src={icon2} className='benef-icon' />
+                <img src={icon2} className='benef-icon' alt='icon' />
                 <p className='benef-name'>Visual communication</p>
               </div>
 
               <div className='benef'>
-                <img src={icon3} className='benef-icon' />
+                <img src={icon3} className='benef-icon' alt='icon' />
                 <p className='benef-name'>Efficiency</p>
               </div>
 
               <div className='benef'>
-                <img src={icon4} className='benef-icon' />
+                <img src={icon4} className='benef-icon' alt='icon' />
                 <p className='benef-name'>Team integration</p>
               </div>
 
               <div className='benef'>
-                <img src={icon5} className='benef-icon' />
+                <img src={icon5} className='benef-icon' alt='icon' />
                 <p className='benef-name'>control</p>
               </div>
             </TeamFlex>

@@ -45,7 +45,7 @@ export const SectionFlex = styled.div`
       display: flex;
 
       img {
-        width: 55%;
+        width: 50%;
         padding-right: 3rem;
       }
     }

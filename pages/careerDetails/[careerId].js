@@ -152,7 +152,7 @@ export default function Career() {
           </div>
 
           <div className='join-section'>
-            <img src={icon} alt='' />
+            <img src={icon} alt='icon' />
             <p className='heading'>Interested in Vacancy ?</p>
             <p> Join us or refer a friend</p>
 

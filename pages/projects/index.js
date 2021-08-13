@@ -1,9 +1,14 @@
 import React from "react"
+//components
 import Layout from "../../components/Layout/Layout"
 import Header from "../../components/Header/Header"
-import image from "../../public/assets/images/07.svg"
-import { SectionContainer } from "../../styles/Home.styles"
 import ProjectsGrid from "../../components/ProjectsGrid/ProjectsGrid"
+
+//assets
+import image from "../../public/assets/images/07.svg"
+
+//styles
+import { SectionContainer } from "../../styles/Home.styles"
 
 export default function Projects() {
   const headerProps = {

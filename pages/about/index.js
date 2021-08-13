@@ -1,17 +1,18 @@
 import React from "react"
+
+//components
 import Layout from "../../components/Layout/Layout"
 import Header from "../../components/Header/Header"
-import image from "../../public/assets/images/07.svg"
 
-import img from "../../public/assets/images/about.svg"
-import img1 from "../../public/assets/images/about1.svg"
-import img2 from "../../public/assets/images/image5.png"
+
+//styles
 import {
   AboutContainer,
   AboutFlex,
   AboutHeading,
 } from "../../styles/About.styles"
 
+//assests
 import icon1 from "../../public/assets/icons/07.svg"
 import icon2 from "../../public/assets/icons/05.svg"
 import icon3 from "../../public/assets/icons/06.svg"
@@ -69,12 +70,12 @@ export default function About() {
             <img
               className='image-cp'
               src='/assets/images/image6.png'
-              alt='cool'
+              alt='about'
             />
             <img
               className='image-cp'
               src='/assets/images/image6.png'
-              alt='col'
+              alt='about'
             />
           </AboutFlex>
         </AboutContainer>
@@ -100,7 +101,7 @@ export default function About() {
               </div>
 
               <div>
-                <img src='/assets/images/image7.png' alt='cool' />
+                <img src='/assets/images/image7.png' alt='about' />
               </div>
             </div>
           </AboutFlex>
@@ -112,17 +113,17 @@ export default function About() {
           </AboutHeading>
           <AboutFlex>
             <div className='item'>
-              <img src={icon1} alt='' className='item-icon' />
+              <img src={icon1} alt='' className='item-icon' alt='about-icon' />
               <p>High-quality development experience</p>
             </div>
 
             <div className='item'>
-              <img src={icon2} alt='' className='item-icon' />
+              <img src={icon2} alt='' className='item-icon' alt='about-icon'/>
               <p>Flexible, cost-efficient cooperation models</p>
             </div>
 
             <div className='item'>
-              <img src={icon3} alt='' className='item-icon' />
+              <img src={icon3} alt='' className='item-icon' alt='about-icon'/>
               <p>Extensive technology consulting expertise</p>
             </div>
           </AboutFlex>

@@ -1,6 +1,7 @@
 import Link from "next/link"
 import React from "react"
 
+//styles
 import {
   HeaderContainer,
   HeaderContent,
@@ -13,7 +14,7 @@ import {
 } from "./Header.styles"
 
 export default function Header({ headerProps }) {
-  //This are the elements which can be include in the header
+  //This are the elements which can be included in the header
   const {
     greet,
     heading,

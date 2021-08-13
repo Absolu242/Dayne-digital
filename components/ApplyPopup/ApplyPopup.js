@@ -58,7 +58,7 @@ export default function ApplyPopup({ btnClick, setBtnClick }) {
           {" "}
           <CtClose>
             <button onClick={() => setBtnClick(false)}>
-              <img src={close} alt='' />
+              <img src={close} alt='icon-close' />
             </button>
           </CtClose>
           <CtImage img={img} />
@@ -109,8 +109,6 @@ export default function ApplyPopup({ btnClick, setBtnClick }) {
               {formik.touched.hourlyRate && formik.errors.hourlyRate ? (
                 <div className='ct-error-msg'>{formik.errors.hourlyRate}</div>
               ) : null}
-
-              <CtInput placeholder='Name' type='upload' />
             </CtInputs>
             <CtSendBtn type='submit'>Send application </CtSendBtn>
           </CtForm>

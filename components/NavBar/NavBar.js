@@ -1,5 +1,6 @@
 import React, { useState } from "react"
 import Link from "next/link"
+import { useRouter } from "next/router"
 import menu from "../../public/assets/icons/MenuBlack.svg"
 import menuClose from "../../public/assets/icons/Close.svg"
 //local imports
@@ -23,8 +24,10 @@ const navItems = [
 ]
 
 export default function NavBar() {
-  const [Open, setOpen] = useState(false)
+  const router = useRouter()
+  const { pathname } = router
 
+  const [Open, setOpen] = useState(false)
   const [btnClick, setBtnClick] = useState(false)
   return (
     <>
@@ -46,7 +49,9 @@ export default function NavBar() {
             {navItems.map((item, i) => (
               <NavLink key={i}>
                 <Link href={item.link}>
-                  <a>{item.name}</a>
+                  <a className={pathname === item.link ? "active" : ""}>
+                    {item.name}
+                  </a>
                 </Link>
               </NavLink>
             ))}

@@ -88,6 +88,10 @@ export const NavLink = styled.div`
     font-size: 1.8rem;
     font-family: "SFProRounded";
     text-transform: capitalize;
+
+    &.active {
+      color: ${colors.primaryColor1};
+    }
   }
 
   @media (max-width: 768px) {

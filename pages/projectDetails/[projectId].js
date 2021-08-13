@@ -1,10 +1,13 @@
 import React from "react"
+import { useRouter } from "next/router"
+
+//components
 import Layout from "../../components/Layout/Layout"
 import Header from "../../components/Header/Header"
-import image from "../../public/assets/images/Image1.svg"
+
+//assets
 import img1 from "../../public/assets/images/detail.svg"
 import img2 from "../../public/assets/images/detail2.svg"
-
 import icon1 from "../../public/assets/icons/09.svg"
 import icon2 from "../../public/assets/icons/10.svg"
 import icon3 from "../../public/assets/icons/11.svg"
@@ -13,15 +16,16 @@ import arrow from "../../public/assets/icons/indicator.svg"
 import profile from "../../public/assets/images/profile.svg"
 import tag from "../../public/assets/images/tag.svg"
 
+//data
 import { projects } from "../../data/projects.data"
 
+//styles
 import {
   ChangeBtn,
   SectionContainer,
   SectionFlex,
   SectionHeading,
 } from "../../styles/ProjectDetails.styles"
-import { useRouter } from "next/dist/client/router"
 
 export default function ProjectDetails() {
   const router = useRouter()
@@ -111,7 +115,7 @@ export default function ProjectDetails() {
               <div className='info shortInfo'>
                 {shortInfos.map((item, i) => (
                   <div className='shortInfo-item' key={i}>
-                    <img src={item.icon} alt='' className='icon' />
+                    <img src={item.icon} alt='icon' className='icon' />
                     <p className='title'>{item.title}</p>
                     <p
                       className='value'
@@ -126,7 +130,7 @@ export default function ProjectDetails() {
               <SectionHeading> Product overview</SectionHeading>
               <div className='info'>
                 <p>Here's some screens of our work.</p>
-                <img src={check.image} alt='cool' />
+                <img src={check.image} alt='work' />
               </div>
             </SectionFlex>
 
@@ -162,8 +166,8 @@ export default function ProjectDetails() {
                     </li>
                   </ul>
                   <div className='value-images'>
-                    <img src={img1} alt='' />
-                    <img src={img2} alt='' />
+                    <img src={img1} alt='value' />
+                    <img src={img2} alt='value' />
                   </div>
                 </div>
               </SectionFlex>
@@ -172,12 +176,12 @@ export default function ProjectDetails() {
             <SectionFlex>
               <SectionHeading> Client Review</SectionHeading>
               <div className='info review'>
-                <img src={profile} alt='' className='review-img' />
+                <img src={profile} alt='review' className='review-img' />
                 <div>
                   <p>Stephane</p>
                   <p>CEO</p>
                   <div>
-                    <img src={tag} alt='' className='tag' />
+                    <img src={tag} alt='tag' className='tag' />
                     <p>
                       I just wanted to share a quick note and let you know that
                       you guys do a really good job. I’m glad I decided to work

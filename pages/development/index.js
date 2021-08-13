@@ -1,8 +1,11 @@
 import React from "react"
+
+//components
 import Layout from "../../components/Layout/Layout"
 import Header from "../../components/Header/Header"
-import image from "../../public/assets/images/07.svg"
 
+//assets
+import image from "../../public/assets/images/07.svg"
 import icon1 from "../../public/assets/icons/java.svg"
 import icon2 from "../../public/assets/icons/node.svg"
 import icon3 from "../../public/assets/icons/php.svg"
@@ -10,6 +13,7 @@ import icon4 from "../../public/assets/icons/net.svg"
 import icon5 from "../../public/assets/icons/python.svg"
 import icon6 from "../../public/assets/icons/windows.svg"
 
+//styles
 import {
   DevContainer,
   DevFlex,
@@ -19,6 +23,7 @@ import {
 } from "../../styles/Development.styles"
 import { colors } from "../../styles/global.styles"
 
+//data
 import { clients } from "../../data/clients.data"
 
 //services list

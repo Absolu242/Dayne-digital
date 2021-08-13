@@ -110,6 +110,7 @@ export const FooterBottomTwo = styled.div`
   .social-media {
     img {
       padding-left: 1rem;
+      cursor: pointer;
     }
   }
   @media (max-width: 765px) {

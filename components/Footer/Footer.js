@@ -1,6 +1,7 @@
 import React from "react"
 import Link from "next/link"
 
+//styles
 import {
   FooterContainer,
   FooterTop,
@@ -13,6 +14,7 @@ import {
   Logo,
 } from "./Footer.styles"
 
+//assets
 import twitter from "../../public/assets/icons/Twitter.svg"
 import facebook from "../../public/assets/icons/Facebook.svg"
 

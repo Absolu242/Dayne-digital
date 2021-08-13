@@ -1,9 +1,14 @@
 import React from "react"
+
+//components
 import Layout from "../../components/Layout/Layout"
 import Header from "../../components/Header/Header"
+
+//assets
 import image from "../../public/assets/images/06.svg"
 import icon from "../../public/assets/icons/03.svg"
 
+//styles
 import {
   PdeContainer,
   PdeFlex,
@@ -26,7 +31,7 @@ export default function ProductEngineering() {
         <PdeContainer>
           <div className='text'>
             <div className='text-content'>
-              <img src={icon} alt='' />
+              <img src={icon} alt='icon' />
               <p>
                 Solve real problems and improve your vital business <br />{" "}
                 metrics through beautiful and intuitive interfaces.{" "}

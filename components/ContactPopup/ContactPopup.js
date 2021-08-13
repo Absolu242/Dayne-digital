@@ -59,7 +59,7 @@ export default function ContactPopup({ btnClick, setBtnClick }) {
           {" "}
           <CtClose>
             <button onClick={() => setBtnClick(false)}>
-              <img src={close} alt='' />
+              <img src={close} alt='close-icon' />
             </button>
           </CtClose>
           <CtImage img={img} />
@@ -152,8 +152,6 @@ export default function ContactPopup({ btnClick, setBtnClick }) {
               {formik.touched.message && formik.errors.message ? (
                 <div className='ct-error-msg'>{formik.errors.message}</div>
               ) : null}
-
-              <CtInput placeholder='Name' type='upload' />
             </CtInputs>
             <CtSendBtn type='submit'>Send message </CtSendBtn>
           </CtForm>
