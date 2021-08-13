@@ -4,7 +4,6 @@ import React from "react"
 import Layout from "../../components/Layout/Layout"
 import Header from "../../components/Header/Header"
 
-
 //styles
 import {
   AboutContainer,
@@ -113,17 +112,17 @@ export default function About() {
           </AboutHeading>
           <AboutFlex>
             <div className='item'>
-              <img src={icon1} alt='' className='item-icon' alt='about-icon' />
+              <img src={icon1} className='item-icon' alt='about-icon' />
               <p>High-quality development experience</p>
             </div>
 
             <div className='item'>
-              <img src={icon2} alt='' className='item-icon' alt='about-icon'/>
+              <img src={icon2} className='item-icon' alt='about-icon' />
               <p>Flexible, cost-efficient cooperation models</p>
             </div>
 
             <div className='item'>
-              <img src={icon3} alt='' className='item-icon' alt='about-icon'/>
+              <img src={icon3} className='item-icon' alt='about-icon' />
               <p>Extensive technology consulting expertise</p>
             </div>
           </AboutFlex>
