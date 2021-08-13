@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewbox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="icon48clock-copy-5">
+    <g id="users" transform="translate(9 12)">
+      <path d="M21.0909 8L21.0909 5.33333C21.0909 2.38781 18.7302 0 15.8182 0L5.27273 0C2.36068 0 2.92695e-16 2.38781 0 5.33333L0 8" transform="translate(0 16)" id="Path" fill="none" fill-rule="evenodd" stroke="#1A0D7C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M5.27273 10.6667C8.18477 10.6667 10.5455 8.27885 10.5455 5.33333C10.5455 2.38781 8.18477 0 5.27273 0C2.36068 0 0 2.38781 0 5.33333C0 8.27885 2.36068 10.6667 5.27273 10.6667Z" transform="translate(5.2727275 0)" id="Oval" fill="none" fill-rule="evenodd" stroke="#1A0D7C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M3.95455 7.82667L3.95455 5.16C3.95275 2.72949 2.32659 0.607627 0 0" transform="translate(25.045454 16.173334)" id="Path" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0C2.33307 0.604226 3.96488 2.73065 3.96488 5.16667C3.96488 7.60268 2.33307 9.72911 0 10.3333" transform="translate(19.772728 0.17333333)" id="Path" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

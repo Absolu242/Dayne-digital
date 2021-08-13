@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="88px" height="88px" viewbox="0 0 88 88" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="iconandroid-copy-6">
+    <path d="M37 44C54.6731 44 74 22 74 22C74 22 54.6731 -5.68295e-14 37 -5.68295e-14C19.3269 -5.68295e-14 -2.04647e-12 22 -2.04647e-12 22C-2.04647e-12 22 19.3269 44 37 44Z" transform="translate(7 31)" id="Oval" fill="none" fill-rule="evenodd" stroke="#1A0D7C" stroke-width="3" />
+    <path d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z" transform="translate(34 43)" id="Oval" fill="none" fill-rule="evenodd" stroke="#1A0D7C" stroke-width="4" />
+    <path d="M0.5 13L0.5 4.69069e-13" transform="matrix(0.8660254 0.5 -0.5 0.8660254 68.566986 13.019229)" id="Path-4-Copy" fill="none" fill-rule="evenodd" stroke="#1A0D7C" stroke-width="3" />
+    <path d="M0.5 13L0.5 -1.49561e-12" transform="matrix(-0.8660254 0.50000006 -0.50000006 -0.8660254 25.433014 24.411533)" id="Path-4-Copy-2" fill="none" fill-rule="evenodd" stroke="#1A0D7C" stroke-width="3" />
+    <path d="M0.5 12L0.5 0" transform="translate(43.5 7.465381)" id="Path-4" fill="none" fill-rule="evenodd" stroke="#1A0D7C" stroke-width="3" />
+  </g>
+</svg>

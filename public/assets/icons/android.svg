@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="88px" height="88px" viewbox="0 0 88 88" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="iconandroid">
+    <path d="M32 0C20.9543 0 12 8.87687 12 19.827L12 54L21 54L21 66L24 66L24 54L40 54L40 66L43 66L43 54L52 54L52 19.827C52 8.87687 43.0457 0 32 0ZM43 54L43 52L40 52L40 54L43 54ZM24 54L24 52L21 52L21 54L24 54ZM15 19.7339C15 10.492 22.6112 3 32 3C41.3888 3 49 10.492 49 19.7339L49 21L15 21L15 19.7339ZM15 24L15 51L49 51L49 24L15 24ZM0 46L0 24L3 24L3 46L0 46ZM61 46L61 24L64 24L64 46L61 46Z" transform="translate(12 12)" id="Combined-Shape" fill="#1A0D7C" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

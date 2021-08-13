@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewbox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="icon48eye-copy-2">
+    <g id="search" transform="translate(8 8)">
+      <path d="M7.73333 7.73333L0 0" transform="translate(24.266666 24.266666)" id="Path" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M14 28C21.732 28 28 21.732 28 14C28 6.26801 21.732 0 14 0C6.26801 0 0 6.26801 0 14C0 21.732 6.26801 28 14 28Z" id="Oval" fill="none" fill-rule="evenodd" stroke="#1A0D7C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

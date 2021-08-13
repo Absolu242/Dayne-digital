@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewbox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="icon48clock">
+    <g id="clock" transform="translate(9 9)">
+      <path d="M15 30C23.2843 30 30 23.2843 30 15C30 6.71573 23.2843 0 15 0C6.71573 0 0 6.71573 0 15C0 23.2843 6.71573 30 15 30Z" id="Oval" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L0 8.4L5.6 11.2" transform="translate(15 6.6)" id="Path" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

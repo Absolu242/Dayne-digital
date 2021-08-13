@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewbox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="icon48clock-copy-8">
+    <g id="Group" transform="translate(12 12)">
+      <path d="M0 0L8 0L8 8" transform="translate(16 0)" id="Path" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M8 8L0 8L0 0" transform="translate(0 16)" id="Path" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M9.33333 0L0 9.33333" transform="translate(14.666667 -1.5099033E-13)" id="Path" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 9.33333L9.33333 0" transform="translate(-6.057377E-13 14.666667)" id="Path" fill="none" fill-rule="evenodd" stroke="#82CAC7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

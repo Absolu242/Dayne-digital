@@ -1,0 +1,18 @@
+export const colors = {
+  primaryColor1: "#A1D7D4",
+  primaryColor1Variant: "#82CAC7",
+  primaryColor2: "#1A0D7C",
+  primaryColor2Variant: "#9FDEEB",
+  primaryColor3: "#6F4CFF",
+  primaryColor4: "#D83333",
+  secondaryColor1: "#F0F8FD",
+  secondaryColor2: "#FBF6F2",
+  secondaryColor3: "#EDF4F4",
+  secondaryColor4: "#FCF9FF",
+  secondaryColor5: "#FAF9F4",
+  secondaryColor6: "#FAF5F6",
+  grey1: "#0E101A",
+  grey2: "#AEB0C1",
+  grey3: "#aeb0c186",
+  grey4: "#2D3880",
+}

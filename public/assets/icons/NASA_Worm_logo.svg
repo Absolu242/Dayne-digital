@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="189px" height="58px" viewbox="0 0 189 58" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="NASA_Worm_logo" transform="translate(4.923065 4.9230957)">
+    <path d="M0 46.7692L0 11.0769C0 6.99815 3.30585 3.69231 7.38462 3.69231C10.5883 3.69231 13.3145 5.74031 14.3311 8.60062L22.592 38.1686C23.6086 41.0289 26.3348 43.0769 29.5385 43.0769C33.6172 43.0769 36.9231 39.7711 36.9231 35.6923L36.9231 0" transform="translate(6.1538463 1.2307693)" id="N" fill="#000000" fill-opacity="0" stroke="#E6E8F0" stroke-width="9.846154" />
+    <g id="A-Clipped">
+      <path d="M0 46.1538L13.3612 4.90831C14.3766 2.048 17.104 0 20.3077 0C23.5114 0 26.2388 2.048 27.2542 4.90831L40.6154 46.1538" transform="translate(49.846153 4.923077)" id="A" fill="#000000" fill-opacity="0" stroke="#E6E8F0" stroke-width="9.846154" />
+    </g>
+    <path d="M36.9231 0L12.9157 0C7.81538 0 3.68 4.13415 3.68 9.23323C3.68 14.3323 7.81538 18.4665 12.9231 18.4665L25.2308 18.4665C30.3286 18.4665 34.4615 22.5982 34.4615 27.6948C34.4615 32.7914 30.3286 36.9231 25.2308 36.9231L0 36.9132" transform="translate(91.07692 6.1538463)" id="S" fill="#000000" fill-opacity="0" stroke="#E6E8F0" stroke-width="9.846154" />
+    <g id="Clipped">
+      <path d="M0 46.1538L13.3846 4.90831C14.4025 2.048 17.1335 0 20.3434 0C23.5532 0 26.2843 2.048 27.3022 4.90831L40.6868 46.1538" transform="translate(131.23077 4.923077)" id="Path" fill="#000000" fill-opacity="0" stroke="#E6E8F0" stroke-width="9.846154" />
+    </g>
+  </g>
+</svg>
