@@ -35,27 +35,27 @@ export default function Team() {
 
             <TeamFlex>
               <div className='benef'>
-                <img src={icon1} className='benef-icon' alt='icon' />
+                <img src={icon1} className='benef-icon'  />
                 <p className='benef-name'>Flexibility and scalability</p>
               </div>
 
               <div className='benef'>
-                <img src={icon2} className='benef-icon' alt='icon'/>
+                <img src={icon2} className='benef-icon' />
                 <p className='benef-name'>Visual communication</p>
               </div>
 
               <div className='benef'>
-                <img src={icon3} className='benef-icon' alt='icon'/>
+                <img src={icon3} className='benef-icon' />
                 <p className='benef-name'>Efficiency</p>
               </div>
 
               <div className='benef'>
-                <img src={icon4} className='benef-icon' alt='icon'/>
+                <img src={icon4} className='benef-icon' />
                 <p className='benef-name'>Team integration</p>
               </div>
 
               <div className='benef'>
-                <img src={icon5} className='benef-icon'alt='icon' />
+                <img src={icon5} className='benef-icon' />
                 <p className='benef-name'>control</p>
               </div>
             </TeamFlex>
