@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import Link from "next/link"
 import { useRouter } from "next/router"
-import menu from "../../public/assets/icons/MenuBlack.svg"
+import menu from "../../public/assets/icons/Menublack.svg"
 import menuClose from "../../public/assets/icons/Close.svg"
 //local imports
 import {
